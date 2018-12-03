@@ -1,0 +1,160 @@
+/*body{
+  width:66%;
+  align-self:center;
+}*/
+
+.topHeaderRow {
+  background-color: white;
+  font-size: 0.8em;
+  padding-top: 1em;
+}
+.navbar-top{
+  font-family: lobster, serif;
+  font-size: 32px;
+  background-color: white;
+  width:100%;
+}
+.navbar-brand{
+  font-size:30px!important;
+}
+.Logo{
+  max-width:50px;
+  
+}
+/*.navbar
+.Logo-img {
+  height:2em;
+  margin:1em;
+}*/ 
+/*
+.main-content{
+  float:center;
+  background-color: white;
+
+}
+.mainPagePictures{
+    object-fit: fill;
+    height:200px !important;
+    width:180px;
+
+  }
+.Pictures{
+  margin:1px;
+  display:inline-block;
+}
+.row1{
+  display:inline-block;
+
+}
+*/
+.main-content{
+  background-color:white;
+  float:left;
+  margin:100px;
+  width:auto;
+}
+.navbar-nav{
+  display:inline-block;
+  float:right!important;
+}
+.mainPage{
+  background-color:white;
+  display:inline-block;
+  height: 1300px;
+  /*opacity:.7;*/
+}
+.LocationInformation{
+  padding:50px;
+  margin:left;
+  text-align:center;
+  column-width:500px;
+}
+.mainPageRow{
+  background-color:white;
+
+}
+.description{
+  font-size:32px;
+}
+.Elevation{
+  padding:20px;
+  font-size:36px;
+}
+.Area{
+  padding:30px;
+  font-size:36px;
+}
+.mainPageBody{
+  margin-left:10px;
+}
+.locationName{
+  padding:50px;
+  font-size:48px;
+}
+.photoGallery{
+  width:auto;
+  display:inline-block;
+  
+}
+
+.photo{
+  margin-top:100px;
+  display:inline-block;
+  
+}
+.carousel-inner{
+margin:auto;
+padding:2em;
+align-self:center;
+
+}
+.carouselImage{
+  width:1000px !important;
+  height:700px !important;
+
+}
+.photoGal{
+  width:290px;
+  height:200px;
+  padding:2px;
+}
+.titlePageName{
+  text-align:center;
+  font-family: lobster, serif;
+  font-size: 42px;
+  margin:50px;
+
+}
+.carousel{
+    position: relative;
+    align-content: center;
+    align-self:center;
+
+}
+.main-content-Landing{
+  background-color:white;
+  margin:100px;
+  width:auto;
+}
+.carouselImageMini{
+  max-width:17%;
+  float:left;
+  margin:1%;
+}
+.mountainRangesMini{
+  align-self:center;
+}
+.miniItem{
+  display:flex;
+  width:75%;
+  background-color: #52cdff ;
+  padding:50px;
+}
+.captionBox{
+  float right;
+  display: inline-block;
+  background-color: #acd8ff;
+}
+.form-row{
+  margin:100px;
+}
