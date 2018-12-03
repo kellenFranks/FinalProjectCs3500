@@ -137,9 +137,9 @@ align-self:center;
   width:auto;
 }
 .carouselImageMini{
-  max-width:17%;
-  float:left;
-  margin:1%;
+  max-width:100%!important;
+
+  margin:20%;
 }
 .mountainRangesMini{
   align-self:center;

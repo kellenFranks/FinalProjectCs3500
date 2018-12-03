@@ -1,1 +1,4 @@
-<?php include_once("LandingPage.php"); ?>
+<?php
+
+include_once("LandingPage.php"); 
+?>

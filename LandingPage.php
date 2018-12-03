@@ -90,53 +90,106 @@
 
 			    	<div class = "picturesCarousel">
 			    		<div class = miniItem">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    			<div class = "container mountainPhoto">
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
 			    			<div class = "captionBox">
-				    			<h2 href = "#">Andes Mountains</h2>
+				    			<a href = "Andes.php">Andes Mountains</a>
 				    			<p>The Andes, running along South America's western side, is among the world's longest mountain ranges. Its varied terrain encompasses glaciers, volcanoes, grassland, desert, lakes and forest. The mountains shelter pre-Columbian archaeological sites and wildlife including chinchillas and condors. From Venezuela in the north, the range passes through Colombia, Ecuador, Peru, Bolivia, Argentina and Chile.</p>
 				    		</div>
 			    		</div>
 			    		<div class = miniItem">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">			    			<div class = "captionBox">
-				    			<h2 href = "#">Himalayas Mountains</h2>
+			    			<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>			    			<div class = "captionBox">
+				    			<a href = "Himalayas.php">Himalayas Mountains</a>
 				    			<p>The Himalayas, or Himalaya, form a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau. The Himalayan range has many of the Earth's highest peaks, including the highest, Mount Everest.</p>
 				    		</div>
 
 			    		</div>
 			    		<div class = miniItem">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    			<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
 			    			<div class = "captionBox">
-				    			<h2 href = "#">Rocky Mountains</h2>
+				    			<a href = "RockyMountain.php">Rocky Mountains</a>
 				    			<p>The Rocky Mountains stretch some 3,000 miles from British Columbia and Alberta in Canada through Idaho, Montana, Wyoming, Colorado, and down to New Mexico in the U.S. The range offers dramatic wilderness, diverse wildlife and alpine lakes. Colorado’s Rocky Mountain National Park is traversed by numerous hiking trails and the famously scenic Trail Ridge Road, a 48-mile highway that reaches a high point of 12,183ft.</p>
 				    		</div>
 			    		</div>
 			    		<div class = miniItem">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    			<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    			<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    				</div>
 			    			<div class = "captionBox">
-				    			<h2 href = "#">Alps</h2>
+				    			<a href = "Andes.php">Alps</a>
 				    			<p>The Alps are the highest and most extensive mountain range system that lies entirely in Europe, stretching approximately 1,200 kilometres across eight Alpine countries: France, Switzerland, Italy, Monaco, Liechtenstein, Austria, Germany, and Slovenia.</p>
 				    		</div>
 			    		</div>
 			    	</div>
 				</div>
 	</div>
-	
+
 
 	<script type="text/javascript" language="javascript" src="js/lab10-walkthrough02.js"></script>   
 </body>

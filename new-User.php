@@ -33,23 +33,23 @@
 	<div class = "col-sm-2"></div>
 
 	<div class = "col-sm-8 mainPage">
-        <form>
+        <form action = "new-U.php" method = "post">
           <div class="form-row">
             <div class="form-group col-md-4">
               <label for="inputEmail4">First Name</label>
-              <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+              <input type="text" class="form-control" id="inputEmail4" placeholder="Email">
             </div>
             <div class="form-group col-md-4">
               <label for="inputPassword4">Last Name</label>
-              <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+              <input type="text" class="form-control" id="inputPassword4" placeholder="Password">
             </div>
             <div class="form-group col-md-4">
               <label for="inputPassword4">Username</label>
-              <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+              <input type="text" class="form-control" id="inputPassword4" placeholder="Password">
             </div>
             <div class="form-group col-md-4">
               <label for="inputEmail4">Password</label>
-              <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+              <input type="password" class="form-control" id="inputEmail4" placeholder="Email">
             </div>
             <div class="form-group col-md-4">
               <label for="inputPassword4">Password Repeat</label>

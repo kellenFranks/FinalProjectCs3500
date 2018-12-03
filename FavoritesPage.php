@@ -26,11 +26,32 @@
 
 <body>
 	<?php include 'header.inc.php'; ?>
-    <div class = miniItem">
-                            <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-                            <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-                            <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-                            <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-                            <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-                        </div>
+    <div class = "col-sm-2"></div>
+
+    <div class = "col-sm-8 mainPage">
+        <div class = "titlePageName">
+            <h1>MountPhotoEmporium<br><br>Favorites</h1>
+        </div>  
+        <div class = "mainPageBody">
+            <div class = miniItem">
+                            <div class = col-sm-2>
+                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                </div>
+                                <div class = col-sm-2>
+                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                </div>
+                                <div class = col-sm-2>
+                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                </div>
+                                <div class = col-sm-2>
+                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                </div>
+                                <div class = col-sm-2>
+                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                </div>
+                                <div class = col-sm-2>
+                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                </div>
+                            </div>
+        </div>
 </body>
