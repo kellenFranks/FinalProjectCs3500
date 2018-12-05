@@ -33,20 +33,6 @@
 	<div class = "col-sm-2"></div>
 
 	<div class = "col-sm-8 mainPage">
-        <form>
-          <div class="form-row">
-            <div class="form-group col-md-4">
-              <label for="inputTitle">Title</label>
-              <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
-            </div>
-            <div class="form-group col-md-4">
-              <label for="inputPath">Path</label>
-              <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
-            </div>
-            <div class="form-group col-md-4">
-              <label for="inputDescription">Descrpition</label>
-              <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
-            </div>
-            
+        
     </div>
 </body>

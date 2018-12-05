@@ -25,7 +25,8 @@
 </style>
 
 <body>
-	<?php include 'header.inc.php'; ?>
+	<?php include 'header.inc.php'; 
+    include 'test.php'?>
     <div class = "col-sm-2"></div>
 
     <div class = "col-sm-8 mainPage">
@@ -35,22 +36,22 @@
         <div class = "mainPageBody">
             <div class = miniItem">
                             <div class = col-sm-2>
-                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                    <img class = "carouselImageMini"  src="<?php echo $favorites[0]  ?>">
                                 </div>
                                 <div class = col-sm-2>
-                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                    <img class = "carouselImageMini"  src="<?php echo $favorites[1]  ?>">
                                 </div>
                                 <div class = col-sm-2>
-                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                    <img class = "carouselImageMini"  src="<?php echo $favorites[2]  ?>">
                                 </div>
                                 <div class = col-sm-2>
-                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                    <img class = "carouselImageMini"  src="<?php echo $favorites[3]  ?>">
                                 </div>
                                 <div class = col-sm-2>
-                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                    <img class = "carouselImageMini"  src="<?php echo $favorites[4]  ?>" >
                                 </div>
                                 <div class = col-sm-2>
-                                    <img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+                                    <img class = "carouselImageMini"  src="<?php echo $favorites[5]  ?>">
                                 </div>
                             </div>
         </div>

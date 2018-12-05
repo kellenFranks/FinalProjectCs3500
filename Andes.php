@@ -43,36 +43,36 @@
             </ol>
             <div class="carousel-inner">
                 <div class="item active">
-                  <img class = "carouselImage" src="images/AndesMountains/download (25).jpg" alt="Los Angeles">
+                  <img class = "carouselImage" src="download (25).jpg" alt="Los Angeles">
                 </div>
 
                 <div class="item">
-                  <img class = "carouselImage" src="images/AndesMountains/download (26).jpg" alt="Chicago">
+                  <img class = "carouselImage" src="download (25).jpg" alt="Chicago">
                 </div>
 
                 <div class="item">
-                <img class = "carouselImage"  src="images/AndesMountains/download (27).jpg" alt="New York">
+                <img class = "carouselImage"  src="download (25).jpg" alt="New York">
                 </div>
                 <div class="item">
-                  <img class = "carouselImage" src="images/AndesMountains/download (28).jpg" alt="Chicago">
-                </div>
-
-                <div class="item">
-                <img class = "carouselImage"  src="images/AndesMountains/download (29).jpg" alt="New York">
-                </div>
-                <div class="item">
-                  <img class = "carouselImage" src="images/AndesMountains/download (30).jpg" alt="Chicago">
+                  <img class = "carouselImage" src="<?php   carouselPictures(3)?>" alt="Chicago">
                 </div>
 
                 <div class="item">
-                <img class = "carouselImage"  src="images/AndesMountains/download (32).jpg" alt="New York">
+                <img class = "carouselImage"  src="<?php  carouselPictures(0)?>" alt="New York">
                 </div>
                 <div class="item">
-                  <img class = "carouselImage" src="images/AndesMountains/download (33).jpg" alt="Chicago">
+                  <img class = "carouselImage" src="<?php   carouselPictures(0)?>" alt="Chicago">
                 </div>
 
                 <div class="item">
-                <img class = "carouselImage"  src="images/AndesMountains/download (34).jpg" alt="New York">
+                <img class = "carouselImage"  src="<?php  carouselPictures(0)?>" alt="New York">
+                </div>
+                <div class="item">
+                  <img class = "carouselImage" src="<?php   carouselPictures(0)?>" alt="Chicago">
+                </div>
+
+                <div class="item">
+                <img class = "carouselImage"  src="<?php  carouselPictures(0)?>" alt="New York">
                 </div>
             </div>
              <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -90,10 +90,10 @@
       <div class = "photoGallery">
         <div class = photoRow>
           <div class = "photo">
-            <img src="" class="img-rounded photoGal" alt="Cinque Terre">
+            <img src="images/download (25).jpg" class="img-rounded photoGal" alt="Cinque Terre">
           </div>
           <div class = "photo">
-            <img src="images/AndesMountains/download (25).jpg" class="img-rounded photoGal" alt="Cinque Terre">
+            <img src="images/download (25).jpg" class="img-rounded photoGal" onclick="<php addFavorite('images/AndesMountains/download (25).jpg') ?>" alt="Cinque Terre">
           </div>
           <div class = "photo">
             <img src="images/AndesMountains/download (26).jpg" class="img-rounded photoGal" alt="Cinque Terre">

@@ -60,7 +60,7 @@
 .mainPage{
   background-color:white;
   display:inline-block;
-  height: 1300px;
+  height: 2000px;
   /*opacity:.7;*/
 }
 .LocationInformation{
@@ -157,4 +157,9 @@ align-self:center;
 }
 .form-row{
   margin:100px;
+}
+.FavoriteButton{
+  background-image:url("Fav.png")!important;
+  height:50px!important;
+  width: 50px!important;
 }

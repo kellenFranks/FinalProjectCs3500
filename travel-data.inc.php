@@ -1,13 +1,12 @@
 <?php
-$servername = "localhost";
+$servername = "cs3500_ImageDB.sql";
 $username = "username";
- $password = "password";
-$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-echo "Connected successfully"; 
- }
-catch(PDOException $e)
- {
-echo "Connection failed: " . $e->getMessage();
- }
+$password = "password";
 
+$conn = new mysqli($servername, $username, $password);
+
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+echo "Connected successfully";
 ?>

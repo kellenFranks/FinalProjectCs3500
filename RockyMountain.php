@@ -43,25 +43,25 @@
             </ol>
             <div class="carousel-inner">
                 <div class="item active">
-                  <img class = "carouselImage" src="<?php   carouselPictures(0)?>" alt="Los Angeles">
+                  <img class = "carouselImage" src="images/RockyMountains/download1.jpg">
                 </div>
 
                 <div class="item">
-                  <img class = "carouselImage" src="<?php   carouselPictures(1)?>" alt="Chicago">
+                  <img class = "carouselImage" src="images/RockyMountains/download2.jpg">
                 </div>
 
                 <div class="item">
-                <img class = "carouselImage"  src="<?php  carouselPictures(2)?>" alt="New York">
+                <img class = "carouselImage"  src="images/RockyMountains/download3.jpg" alt="New York">
                 </div>
                 <div class="item">
-                  <img class = "carouselImage" src="<?php   carouselPictures(3)?>" alt="Chicago">
+                  <img class = "carouselImage" src="images/RockyMountains/download3.jpg" alt="Chicago">
                 </div>
 
                 <div class="item">
-                <img class = "carouselImage"  src="<?php  carouselPictures(0)?>" alt="New York">
+                <img class = "carouselImage"  src="images/RockyMountains/download4.jpg" alt="New York">
                 </div>
                 <div class="item">
-                  <img class = "carouselImage" src="<?php   carouselPictures(0)?>" alt="Chicago">
+                  <img class = "carouselImage" src="images/RockyMountains/download5.jpg" alt="Chicago">
                 </div>
 
                 <div class="item">
@@ -93,22 +93,22 @@
             <img src="" class="img-rounded photoGal" alt="Cinque Terre">
           </div>
           <div class = "photo">
-            <img src="images/AndesMountains/download1.jpg" class="img-rounded photoGal" alt="Cinque Terre">
+            <img src="images/RockyMountains/download1.jpg" class="img-rounded photoGal" alt="Cinque Terre">
           </div>
           <div class = "photo">
-            <img src="images/AndesMountains/download2.jpg" class="img-rounded photoGal" alt="Cinque Terre">
+            <img src="images/RockyMountains/download2.jpg" class="img-rounded photoGal" alt="Cinque Terre">
           </div>
           <div class = "photo">
-            <img src="images/AndesMountains/download3.jpg" class="img-rounded photoGal" alt="Cinque Terre">
+            <img src="images/RockyMountains/download3.jpg" class="img-rounded photoGal" alt="Cinque Terre">
           </div>
           <div class = "photo">
-            <img src="images/AndesMountains/download4.jpg" class="img-rounded photoGal" alt="Cinque Terre">
+            <img src="images/RockyMountains/download4.jpg" class="img-rounded photoGal" alt="Cinque Terre">
           </div>
           <div class = "photo">
-            <img src="images/AndesMountains/download5.jpg" class="img-rounded photoGal" alt="Cinque Terre">
+            <img src="images/RockyMountains/download5.jpg" class="img-rounded photoGal" alt="Cinque Terre">
           </div>
           <div class = "photo">
-            <img src="images/AndesMountains/download6.jpg" class="img-rounded photoGal" alt="Cinque Terre">
+            <img src="images/RockyMountains/download6.jpg" class="img-rounded photoGal" alt="Cinque Terre">
           </div>
         </div>
         

@@ -16,6 +16,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src = "javascript.js"></script>
 
 </head>
  
@@ -28,7 +29,8 @@
 </style>
 
 <body>
-	<?php include 'header.inc.php'; ?>
+	<?php include 'test.php';
+	 include 'header.inc.php'; ?>
 
 	<div class = "col-sm-2"></div>
 
@@ -93,25 +95,32 @@
 			    			<div class = "container mountainPhoto">
 			    				<div class = col-sm-2>
 			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<input type="submit" class="button" name="insert" value="insert" />
 			    				</div>
 			    				<div class = col-sm-2>
 			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<input type="submit" class="button" name="insert" value="insert" />
 			    				</div>
 			    				<div class = col-sm-2>
 			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<input type="submit" class="button" name="insert" value="insert" />
 			    				</div>
 			    				<div class = col-sm-2>
 			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<input type="submit" class="button" name="insert" value="insert" />
 			    				</div>
 			    				<div class = col-sm-2>
 			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<input type="submit" class="button" name="insert" value="insert" />
 			    				</div>
 			    				<div class = col-sm-2>
 			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<input type="submit" class="button" name="insert" value="insert" />
 			    				</div>
 			    			<div class = "captionBox">
-				    			<a href = "Andes.php">Andes Mountains</a>
-				    			<p>The Andes, running along South America's western side, is among the world's longest mountain ranges. Its varied terrain encompasses glaciers, volcanoes, grassland, desert, lakes and forest. The mountains shelter pre-Columbian archaeological sites and wildlife including chinchillas and condors. From Venezuela in the north, the range passes through Colombia, Ecuador, Peru, Bolivia, Argentina and Chile.</p>
+				    			<a href = "RockyMountain.php">Rocky Mountains</a>
+				    			<p>The Rocky Mountains stretch some 3,000 miles from British Columbia and Alberta in Canada through Idaho, Montana, Wyoming, Colorado, and down to New Mexico in the U.S. The range offers dramatic wilderness, diverse wildlife and alpine lakes. Colorado’s Rocky Mountain National Park is traversed by numerous hiking trails and the famously scenic Trail Ridge Road, a 48-mile highway that reaches a high point of 12,183ft.</p>
+
 				    		</div>
 			    		</div>
 			    		<div class = miniItem">
