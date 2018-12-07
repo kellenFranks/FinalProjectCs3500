@@ -20,17 +20,17 @@
 </head>
  
 <style>
-	body{
-		background-image: url("images/Background/Wallpaper.jpg");
-		background-size: auto;
-		font-family: 'Open Sans',sans-serif;
-	}
+  body{
+    background-image: url("images/Background/Wallpaper.jpg");
+    background-size: auto;
+    font-family: 'Open Sans',sans-serif;
+  }
 </style>
 
 <body>
-	<?php include 'header.inc.php'; ?>
+  <?php include 'header.inc.php'; ?>
 
-	<div class = "col-sm-1"></div>
+  <div class = "col-sm-1"></div>
 
     <div class = "col-sm-10 mainPage">
       <div class = "mainPageBody">
@@ -64,16 +64,6 @@
                   <img class = "carouselImage" src="images/RockyMountains/download5.jpg" alt="Chicago">
                 </div>
 
-                <div class="item">
-                <img class = "carouselImage"  src="<?php  carouselPictures(0)?>" alt="New York">
-                </div>
-                <div class="item">
-                  <img class = "carouselImage" src="<?php   carouselPictures(0)?>" alt="Chicago">
-                </div>
-
-                <div class="item">
-                <img class = "carouselImage"  src="<?php  carouselPictures(0)?>" alt="New York">
-                </div>
             </div>
              <a class="left carousel-control" href="#myCarousel" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left"></span>
@@ -87,10 +77,16 @@
         </div>
         
       </div>
+
+      <div class = paragraphPage>
+        <h1>Rocky Mountains</h1>
+        <p>The Rocky Mountains stretch some 3,000 miles from British Columbia and Alberta in Canada through Idaho, Montana, Wyoming, Colorado, and down to New Mexico in the U.S. The range offers dramatic wilderness, diverse wildlife and alpine lakes. Colorado’s Rocky Mountain National Park is traversed by numerous hiking trails and the famously scenic Trail Ridge Road, a 48-mile highway that reaches a high point of 12,183ft.</p>
+      </div>
+
       <div class = "photoGallery">
         <div class = photoRow>
           <div class = "photo">
-            <img src="" class="img-rounded photoGal" alt="Cinque Terre">
+            <img src="" class="images/RockyMountains/download7.jpg" alt="Cinque Terre">
           </div>
           <div class = "photo">
             <img src="images/RockyMountains/download1.jpg" class="img-rounded photoGal" alt="Cinque Terre">
