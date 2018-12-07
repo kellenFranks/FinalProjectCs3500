@@ -60,7 +60,7 @@
         </form>
 
         <div class = formNewPerson>
-            <a>New? Create an account.</a>
+            <a href = "new-User.php">New? Create an account.</a>
         </div>
     </div>
 </body>
