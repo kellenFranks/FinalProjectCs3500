@@ -126,22 +126,22 @@
 			    		
 			    		<div class = miniItem">
 			    			<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/AndesMountains/download (25).jpg" alt="New York">
 			    				</div>
 			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/AndesMountains/download (26).jpg" alt="New York">
 			    				</div>
 			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/AndesMountains/download (27).jpg" alt="New York">
 			    				</div>
 			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/AndesMountains/download (28).jpg" alt="New York">
 			    				</div>
 			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/AndesMountains/download (29).jpg" alt="New York">
 			    				</div>
 			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/AndesMountains/download (30).jpg" alt="New York">
 			    				</div>
 			    			<div class = "captionBox">
 				    			<a href = "Andes.php">Andes Mountains</a>
@@ -150,22 +150,22 @@
 			    		</div>
 			    		<div class = miniItem">
 			    			<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download8.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download7.jpg" alt="New York">
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download6.jpg" alt="New York">
 			    				</div>
 			    				<div class = col-sm-2>
 			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
 			    				</div>
 			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download4.jpg" alt="New York">
 			    				</div>
 			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    				</div>
-			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    				</div>
-			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download3.jpg" alt="New York">
 			    				</div>
 			    			<div class = "captionBox">
 				    			<a href = "Andes.php">Alps</a>
