@@ -94,7 +94,19 @@
 			    		<div class = miniItem">
 			    			<div class = "container mountainPhoto">
 			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download1.jpg" alt="New York">
+			    					<input type="submit" class="button" name="insert" value="insert" />
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download2.jpg" alt="New York">
+			    					<input type="submit" class="button" name="insert" value="insert" />
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download3.jpg" alt="New York">
+			    					<input type="submit" class="button" name="insert" value="insert" />
+			    				</div>
+			    				<div class = col-sm-2>
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download4.jpg" alt="New York">
 			    					<input type="submit" class="button" name="insert" value="insert" />
 			    				</div>
 			    				<div class = col-sm-2>
@@ -102,19 +114,7 @@
 			    					<input type="submit" class="button" name="insert" value="insert" />
 			    				</div>
 			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    					<input type="submit" class="button" name="insert" value="insert" />
-			    				</div>
-			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    					<input type="submit" class="button" name="insert" value="insert" />
-			    				</div>
-			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    					<input type="submit" class="button" name="insert" value="insert" />
-			    				</div>
-			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
+			    					<img class = "carouselImageMini"  src="images/RockyMountains/download6.jpg" alt="New York">
 			    					<input type="submit" class="button" name="insert" value="insert" />
 			    				</div>
 			    			<div class = "captionBox">
@@ -123,30 +123,7 @@
 
 				    		</div>
 			    		</div>
-			    		<div class = miniItem">
-			    			<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    				</div>
-			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    				</div>
-			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    				</div>
-			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    				</div>
-			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    				</div>
-			    				<div class = col-sm-2>
-			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
-			    				</div>			    			<div class = "captionBox">
-				    			<a href = "Himalayas.php">Himalayas Mountains</a>
-				    			<p>The Himalayas, or Himalaya, form a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau. The Himalayan range has many of the Earth's highest peaks, including the highest, Mount Everest.</p>
-				    		</div>
-
-			    		</div>
+			    		
 			    		<div class = miniItem">
 			    			<div class = col-sm-2>
 			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
@@ -167,7 +144,7 @@
 			    					<img class = "carouselImageMini"  src="images/RockyMountains/download5.jpg" alt="New York">
 			    				</div>
 			    			<div class = "captionBox">
-				    			<a href = "RockyMountain.php">Rocky Mountains</a>
+				    			<a href = "Andes.php">Andes Mountains</a>
 				    			<p>The Rocky Mountains stretch some 3,000 miles from British Columbia and Alberta in Canada through Idaho, Montana, Wyoming, Colorado, and down to New Mexico in the U.S. The range offers dramatic wilderness, diverse wildlife and alpine lakes. Colorado’s Rocky Mountain National Park is traversed by numerous hiking trails and the famously scenic Trail Ridge Road, a 48-mile highway that reaches a high point of 12,183ft.</p>
 				    		</div>
 			    		</div>
