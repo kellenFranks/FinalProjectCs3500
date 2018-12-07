@@ -10,10 +10,10 @@
 
         
           <li class="active"><a href="LandingPage.php">Home</a></li>
-        
+            
             <li><a href="addPicture.php">+</a></li>
             <li><a href="FavoritesPage.php">Favorites</a></li>
-            <li><a href="About.php">About</a></li>
+            <li><a href="LoginPage.php">About</a></li>
             <li><a href="new-User.php">Profile</a></li>
         
 
@@ -21,4 +21,4 @@
         </div>
       </div>
     </nav>
-</header>b
+</header>

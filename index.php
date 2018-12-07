@@ -1,4 +1,4 @@
 <?php
-include_once("FavoritesPage.php"); 
+include_once("LandingPage.php"); 
 
 ?>

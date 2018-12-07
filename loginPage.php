@@ -20,27 +20,27 @@
 </head>
  
 <style>
-	body{
-		background-image: url("images/Background/Wallpaper.jpg");
-		background-size: auto;
-		font-family: 'Open Sans',sans-serif;
-	}
+  body{
+    background-image: url("images/Background/Wallpaper.jpg");
+    background-size: auto;
+    font-family: 'Open Sans',sans-serif;
+  }
 </style>
 
 <body>
-	<?php include 'header.inc.php'; ?>
+  <?php include 'header.inc.php'; ?>
 
-	<div class = "col-sm-1"></div>
+  <div class = "col-sm-1"></div>
 
-	<div class = "col-sm-10 mainPage">
+  <div class = "col-sm-10 mainPage">
         <form>
-          <div class="form-row align-items-center">
+          <div class="form-row align-items-center formPages">
             <div class="col-sm-3 my-1">
               <label class="sr-only" for="inlineFormInputName">Name</label>
-              <input type="text" class="form-control" id="inlineFormInputName" placeholder="Jane Doe">
+              <input type="text" class="form-control" id="inlineFormInputName" placeholder="Username">
             </div>
             <div class="col-sm-3 my-1">
-              <label class="sr-only" for="inlineFormInputGroupUsername">Username</label>
+              <label class="sr-only" for="inlineFormInputGroupUsername">password</label>
               <div class="input-group">
                 <input type="text" class="form-control" id="inlineFormInputGroupUsername" placeholder="Username">
               </div>
@@ -54,13 +54,13 @@
               </div>
             </div>
             <div class="col-auto my-1">
-              <button type="submit" class="btn btn-primary">Submit</button>
+              <button href = "LandingPage.php" type="submit" class="btn btn-primary">Submit</button>
             </div>
           </div>
         </form>
 
         <div class = formNewPerson>
-            <a href = "new-User.php">New? Create an account.</a>
+            <a>New? Create an account.</a>
         </div>
     </div>
 </body>
