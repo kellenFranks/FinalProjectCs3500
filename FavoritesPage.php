@@ -17,15 +17,15 @@
 </head>
  
 <style>
-	body{
-		background-image: url("images/Background/Wallpaper.jpg");
-		background-size: auto;
-		font-family: 'Open Sans',sans-serif;
-	}
+    body{
+        background-image: url("images/Background/Wallpaper.jpg");
+        background-size: auto;
+        font-family: 'Open Sans',sans-serif;
+    }
 </style>
 
 <body>
-	<?php include 'header.inc.php'; 
+    <?php include 'header.inc.php'; 
     include 'test.php'?>
     <div class = "col-sm-2"></div>
 

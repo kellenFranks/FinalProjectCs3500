@@ -20,19 +20,19 @@
 </head>
  
 <style>
-	body{
-		background-image: url("images/Background/Wallpaper.jpg");
-		background-size: auto;
-		font-family: 'Open Sans',sans-serif;
-	}
+  body{
+    background-image: url("images/Background/Wallpaper.jpg");
+    background-size: auto;
+    font-family: 'Open Sans',sans-serif;
+  }
 </style>
 
 <body>
-	<?php include 'header.inc.php'; ?>
+  <?php include 'header.inc.php'; ?>
 
-	<div class = "col-sm-2"></div>
+  <div class = "col-sm-2"></div>
 
-	<div class = "col-sm-8 mainPage">
+  <div class = "col-sm-8 mainPage">
         <form action = "new-U.php" method = "post">
           <div class="form-row">
             <div class="form-group col-md-4">
@@ -58,14 +58,7 @@
 
           </div>
           
-          <div class="form-group">
-            <div class="form-check">
-              <input class="form-check-input" type="checkbox" id="gridCheck">
-              <label class="form-check-label" for="gridCheck">
-                Check me out
-              </label>
-            </div>
-          </div>
+          
           <button type="submit" class="btn btn-primary">Sign in</button>
         </form>
     </div>
